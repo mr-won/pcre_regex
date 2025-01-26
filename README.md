@@ -1,2 +1,1 @@
-# pcre_regex
-pcre_regex (정규식 표현 방법 정리)
+회사 업무에 도움이 되는 pcre_regex 정규표현식 정리를 합니다.
