@@ -1,4 +1,8 @@
 회사 업무에 도움이 되는 pcre_regex 정규표현식 정리를 합니다.
+regular expressions 검증을 위한 유용한 사이트 3개
+[Regexr]([https://regexr.com/)     
+[regex101]([https://regex101.com/)     
+[regexper](https://regexper.com/)      
 ```
 PCRE는 "Perl-Compatible Regular Expressions"의 약어로,
 강력한 정규 표현식을 지원하는 프로그래밍 언어인 Perl의 기능을 다른 프로그래밍 언어나 도구에서도 사용할 수 있게 해주는 라이브러리를 의미합니다.
