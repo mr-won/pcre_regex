@@ -59,7 +59,7 @@ Vim, Emacs 등에서 사용되는 정규표현식도 별도로 존재한다.
  
 
 #### 1. 반복 메타문자
-
+![image](https://github.com/user-attachments/assets/3f36bf67-1dfa-43f1-ae7a-cf169222300e)
 https?
 
 '?'앞의 하나의 문자가 없거나 한번만 반복하는 것을 찾는다.
@@ -87,6 +87,7 @@ dong*
 위 문자들과 동일하게 바로 앞에 한글자를 반복하는 횟수를 지정한다.
 
 #### 2. 매칭 메타문자
+![image](https://github.com/user-attachments/assets/b4344b18-bd3b-42ed-9c8c-d4fb9fe755c4)
 
 ^abc
 
@@ -133,14 +134,15 @@ b에서 d사이 문자를 제외한 모든 문자를 나타냄
 매치되는 하나의 문자열 즉, 객체를 구분지어준다.
 
 #### 3. 이스케이프 기호
+![image](https://github.com/user-attachments/assets/705b70fd-3bd4-45c8-8c43-facdcdfd7168)
 
 이스케이프 기호는 적혀있는대로.. 딱히 설명할게 없다.
 
 우리가 늘 사용하던 \n, \t 등이 여기에 해당한다.
 
 #### 4. 탐색 플래그
-
-추가로 x는 공백을 말함. 
+![image](https://github.com/user-attachments/assets/6a587027-ecb7-4d8f-8078-c87d28128e2e)
+추가로 x는 공백을 말함.    
 
 m은 쉽게 말해 다중행
-
+  
